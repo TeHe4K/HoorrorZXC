@@ -11,6 +11,10 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
+		},
+		{
+			"Name": "SoundUtilities",
+			"Enabled": true
 		}
 	]
 }
